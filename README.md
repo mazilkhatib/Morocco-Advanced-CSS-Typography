@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Morrocco (Advance CSS Typography) 👋</h1>
+<h1 align="center">Welcome to Morocco (Advance CSS Typography) 👋</h1>
 <p>
 </p>
 
